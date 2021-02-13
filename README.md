@@ -1,3 +1,3 @@
 # simpleCalclator
 
-a simple animated calclator: check it out >>> https://codepen.io/taricov/full/abBBeXY
+A simple animated calculator: check it out >>> https://codepen.io/taricov/full/abBBeXY
